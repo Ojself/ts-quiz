@@ -7,6 +7,4 @@ Quiz loaded from open trivia database
 
 [Try Here](https://Ojself.github.io/ts-quiz/)
 
-![Preview](./screenshot.png)
-
 Thanks to [freecodecamp](https://www.freecodecamp.org/) for tutorials!
